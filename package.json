@@ -1,0 +1,15 @@
+{
+  "name": "messagequeues-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chirantan Banik",
+  "license": "ISC",
+  "dependencies": {
+    "bullmq": "^5.0.0",
+    "redis": "^4.6.12"
+  }
+}
